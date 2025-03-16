@@ -16,3 +16,9 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+header_nav = [
+  { url = "/", name_en = "/home/", name_fr = "/accueil/" },
+  { url = "/about", name_en = "/about/", name_fr = "/concernant/" },
+  { url = "/blog", name_en = "/blog/", name_fr = "/blog/" }
+]
