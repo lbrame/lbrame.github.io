@@ -1,6 +1,10 @@
 # The URL the site will be built for
 base_url = "https://lbrame.github.io/"
 
+# The site title and description; used in feeds by default.
+title = "/home/luca"
+description = "Luca's corner on the Internet"
+
 theme = "anemone"
 
 # Whether to automatically compile all Sass files in the sass directory
