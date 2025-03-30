@@ -1,5 +1,5 @@
 +++
 paginate_by = 15
-title = "All blog posts"
+title = "/home/luca/blog"
 sort_by = "date"
 +++
