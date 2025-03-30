@@ -9,7 +9,7 @@ Hi, I'm Luca! It seems like you have landed on my website, so here's a quick int
 
 I graduated with a **Bachelor's Degree in Computer Science** from [Università di Verona](https://www.univr.it/home) in March 2025 and I currently work as a backend Software Engineer, while I work through my **Master's Degree** in Computer Science and Engineering.
 
-I also love **Linux** and FOSS. I also love writing and talking about them, both here on this blog and on [LibreNews](https://thelibre.news)!
+I love **Linux** and FOSS. I also happen to write about them, both here on this blog and on [LibreNews](https://thelibre.news)!
 
 ## `ls`
 
