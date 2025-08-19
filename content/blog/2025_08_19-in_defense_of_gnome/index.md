@@ -128,7 +128,7 @@ If you actually take the time to read the letter, you will read:
 
 Honestly, as a Software Engineer, I find this a completely sane and uncontroversial take. It is very common to ship a piece of software with the assumption that it will run in a certain environment, configured in a certain way, and to provide explicit support for that.
 
-There is no interest in opposing individual themers and power users *just for the sake of it*: you may do what you want, but you are not entitled to explicit support for unsupported configurations. **Nothing** about this actually stops you from installing a GTK 3 or shell theme with GNOME Tweaks, or a `libadwaita` stylesheet with Gradiance.
+There is no interest in opposing individual themers and power users *just for the sake of it*: you may do what you want, but you are not entitled to explicit support for unsupported configurations. **Nothing** about this actually stops you from installing a GTK 3 or shell theme with GNOME Tweaks, or a `libadwaita` stylesheet with Gradience.
 
 ![Users may absolutely set a custom theme!](./img/06-gnome_tweaks.png)
 <small>Users may absolutely set a custom theme!</small>
