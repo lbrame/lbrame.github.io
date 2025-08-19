@@ -91,7 +91,7 @@ Lastly, on to the spicy part: I am now going to attempt to address some of the c
 ![Just enough Appearance settings](./img/04-appearance_settings.png)
 <small>There are not too many cosmetic customizations available - and that's a good thing</small>
 
-Not everything needs to be endlessly customizable as a design decision. This is a completely subjective point, and not an objective indicator of quality or lack thereof in a piece of software.\
+Not everything needs to be endlessly customizable as a design decision. This is a completely subjective point, and not an objective indicator of quality or lack thereof in a piece of software.
 
 Furthermore, it can be argued that the *lack of* arbitrary customizability is a perfectly fine design decision on its own. As a GNOME contributor Tobias Bernard put it very well [in this blog post](https://blogs.gnome.org/tbernard/2021/07/13/community-power-4/), **every choice has a cost** - a cost you will pay handsomely.
 
